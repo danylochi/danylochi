@@ -1,10 +1,12 @@
 ﻿# Dayane Domingues
 
-QA Analyst | Software Quality | API Testing | Test Automation
+QA Analyst | Quality Assurance | API Testing | Test Automation
 
 Atuo com qualidade de software ponta a ponta, com foco em testes funcionais, validação de APIs e automação orientada a risco. Meu objetivo aqui no GitHub é compartilhar projetos práticos e evolução técnica em QA.
 
-## Foco técnico
+![QA Banner](https://img.shields.io/badge/QA-Quality%20Assurance-0B6E4F?style=for-the-badge&logo=githubactions&logoColor=white)
+
+## Foco técnico 🔎
 
 - Testes manuais, regressão e exploratórios
 - API testing com Postman/Newman
@@ -12,7 +14,7 @@ Atuo com qualidade de software ponta a ponta, com foco em testes funcionais, val
 - Testes de performance com k6
 - Validação de dados com SQL e MongoDB
 
-## Projetos em destaque
+## Projetos em destaque 🚀
 
 - **[API Testing com Cypress (Mark85)](https://github.com/danylochi/mark85-cypress-api)**  
   Automação de testes de API com Cypress, incluindo validação de mensageria com RabbitMQ/AMQP e limpeza de filas em cenários críticos.
@@ -32,7 +34,7 @@ Atuo com qualidade de software ponta a ponta, com foco em testes funcionais, val
 - **[Robot Framework em Cenários E-commerce](https://github.com/danylochi/cursorobot)**  
   Estudos de automação web com Robot Framework e SeleniumLibrary em cenários de e-commerce.
 
-## Contato
+## Contato 🤝
 
 - GitHub: https://github.com/danylochi
 - LinkedIn: https://www.linkedin.com/in/dayanecdomingues/
