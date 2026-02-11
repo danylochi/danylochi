@@ -1,43 +1,39 @@
 ﻿# Dayane Domingues
 
-QA Analyst | Software Quality | Manual + API (Postman) | Automacao (Cypress) | Performance (k6) | SQL/MongoDB
+QA Analyst | Software Quality | API Testing | Test Automation
 
-Sou profissional de Qualidade de Software (QA) com atuacao em sistemas complexos, integracoes e regras de negocio criticas, com foco em previsibilidade e confianca nas entregas.
+Atuo com qualidade de software ponta a ponta, com foco em testes funcionais, validação de APIs e automação orientada a risco. Meu objetivo aqui no GitHub é compartilhar projetos práticos e evolução técnica em QA.
 
-## Sobre mim
+## Foco técnico
 
-- Atuacao em analise de requisitos, refinamentos e criterios de aceite.
-- Execucao de testes funcionais, regressao e exploratorios com foco em fluxos end-to-end.
-- Validacao de APIs e integracoes (contratos, autenticacao, cenarios negativos e consistencia de dados).
-- Apoio a automacao de testes com Cypress e manutencao de suite.
-- Validacao de dados com SQL e MongoDB, com analise de defeitos orientada a causa raiz.
+- Testes manuais, regressão e exploratórios
+- API testing com Postman/Newman
+- Automação de testes com Cypress
+- Testes de performance com k6
+- Validação de dados com SQL e MongoDB
 
-## Stack principal
+## Projetos em destaque
 
-- Testes Manuais
-- BDD/Gherkin
-- Cypress
-- Postman/Newman
-- k6
-- SQL
-- MongoDB
-- CI/CD
-- Observabilidade (Datadog + Elastic)
+- **[API Testing com Cypress (Mark85)](https://github.com/danylochi/mark85-cypress-api)**  
+  Automação de testes de API com Cypress, incluindo validação de mensageria com RabbitMQ/AMQP e limpeza de filas em cenários críticos.
 
-## Experiencia em destaque
+- **[E2E com Cypress no TodoMVC](https://github.com/danylochi/todoMVC_cypress)**  
+  Suíte E2E com Cypress usando Page Object para validar fluxos completos no TodoMVC.
 
-- **QA Analyst / QA Engineer - Smart Log (Online Applications)**  
-  set/2024 a jan/2026 - validacao de fluxos criticos, APIs e integracoes em ambiente multi-time.
+- **[Automação de Frontend com Cypress](https://github.com/danylochi/qazando-cypress-front)**  
+  Testes de frontend com Cypress para navegação, formulários e interações da interface.
 
-- **QA Analyst (alocada na Azul Linhas Aereas)**  
-  set/2022 a set/2024 - testes end-to-end, integracoes e qualidade no ciclo completo de features.
+- **[Login Web com Java + Selenium](https://github.com/danylochi/udemy-java-selenium)**  
+  Projeto de estudos com Java + Selenium + TestNG para automação de login web.
 
-## Links
+- **[API + Front de Login com Flask](https://github.com/danylochi/test-login-api)**  
+  Exemplo de integração front + API com Flask para simulação de fluxo de autenticação.
+
+- **[Robot Framework em Cenários E-commerce](https://github.com/danylochi/cursorobot)**  
+  Estudos de automação web com Robot Framework e SeleniumLibrary em cenários de e-commerce.
+
+## Contato
 
 - GitHub: https://github.com/danylochi
 - LinkedIn: https://www.linkedin.com/in/dayanecdomingues/
-- Curriculo: [curriculo.md](./curriculo.md)
 
-## Objetivo
-
-Disponivel para oportunidades em Qualidade de Software (QA), com foco em testes funcionais, API testing e automacao.
